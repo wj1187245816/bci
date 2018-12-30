@@ -9,7 +9,7 @@ int main()
 {
 	Plorg one;
 	one.Show();
-	Plorg two("aa");
+	Plorg two("aaa");
 	two.Show();
 	Plorg three("bb",33);
 	three.Show();
